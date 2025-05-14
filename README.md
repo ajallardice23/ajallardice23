@@ -3,7 +3,7 @@
 [🔗View My Portfolio](https://www.alexanderallardice.dev) </br>
 [🧑‍💼Connect With Me On LinkedIn](https://www.linkedin.com/in/alexanderallardice/)
 
-<h3 align="left">About Me</h3>
+<h3 align="left">About Me:</h3>
 🎓I achieved a first-class in Computer Science at Bangor University </br>
 🎮I have a passion for game development </br>
 🕹️Some of my games are playable on [My ITCH Page](https://alexanderallardice.itch.io) </br>
