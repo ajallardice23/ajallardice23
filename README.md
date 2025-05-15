@@ -6,7 +6,7 @@
 <h3 align="left">About Me:</h3>
 🎓I achieved a first-class in Computer Science at Bangor University </br>
 🎮I have a passion for game development </br>
-🕹️Some of my games are playable on [My ITCH Page](https://alexanderallardice.itch.io) </br>
+🕹️Some of my games are playable on <a href="https://alexanderallardice.itch.io">My ITCH Page</a> </br>
 
 
 <h3 align="left">Languages and Tools:</h3>
