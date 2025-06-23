@@ -1,12 +1,13 @@
 ## 👋HELLO, I'm Alex! 
 
 [🔗View My Portfolio](https://www.alexanderallardice.dev) </br>
+
 [🧑‍💼Connect With Me On LinkedIn](https://www.linkedin.com/in/alexanderallardice/)
 
 <h3 align="left">About Me:</h3>
 🎓I achieved a first-class in Computer Science at Bangor University </br>
-🎮I have a passion for game development </br>
-🕹️Some of my games are playable on <a href="https://alexanderallardice.itch.io">My ITCH Page</a> </br>
+🎮I have a passion for software engineering, coding and game development </br>
+🕹️Some of my projects are playable on <a href="https://alexanderallardice.itch.io">My ITCH Page</a> </br>
 
 
 <h3 align="left">Languages and Tools:</h3>
